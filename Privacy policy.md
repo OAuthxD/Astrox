@@ -1,3 +1,4 @@
+
 # STATEMENT
 
 We respect the privacy of your information. We provide this explanation about our information practices as a show of our commitment to protect your privacy. This policy describes the types of information we may collect from you or that you may provide when using Neptune or servers where Neptune is present and our practices for collecting, using, maintaining, protecting, and disclosing that information.
@@ -11,9 +12,9 @@ User IDs to keep a record of afk, warn, mute.
 
 Few parts of message content for logging system.
 
-Our bot only gathers personally identifiable data through commands run using the bot. This information helps us provide a better user experience for all Neptune's users.
+Our bot only gathers personally identifiable data through commands run using the bot. This information helps us provide a better user experience for all Astrox's users.
 
-The information we collect when you vote for Neptune on the third-party website Discord bot list
+The information we collect when you vote for Astrox on the third-party website Discord bot list
 
 Your Username
 
@@ -50,7 +51,7 @@ Contact any of the server moderators in our discord support server.
 Ask server mod(s) to remove the logged message or just wait for 24 hours, after being they are removed automatically after 24 hours.
 
 # Security
-We take steps to ensure data provided from here Neptune is protected from misuse, loss, alteration, or unauthorized access. However, no Internet-based system can be declared fully secure and error free.
+We take steps to ensure data provided from here Astrox is protected from misuse, loss, alteration, or unauthorized access. However, no Internet-based system can be declared fully secure and error free.
 
 # HOW CAN I CONTACT YOU?
 If you have specific questions about our privacy policy you can send us an Email and you can simply join our discord support server
