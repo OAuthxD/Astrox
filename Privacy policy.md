@@ -1,9 +1,9 @@
 
 # STATEMENT
 
-We respect the privacy of your information. We provide this explanation about our information practices as a show of our commitment to protect your privacy. This policy describes the types of information we may collect from you or that you may provide when using Neptune or servers where Neptune is present and our practices for collecting, using, maintaining, protecting, and disclosing that information.
+We respect the privacy of your information. We provide this explanation about our information practices as a show of our commitment to protect your privacy. This policy describes the types of information we may collect from you or that you may provide when using Astrox or servers where Astrox is present and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we treat it. If you do not agree with our policies and practices, your choice is not to use our website or bot. By adding Neptune to your Discord server, you agree that you have read and agree to this policy.
+Please read this policy carefully to understand our policies and practices regarding your information and how we treat it. If you do not agree with our policies and practices, your choice is not to use our website or bot. By adding Astrox to your Discord server, you agree that you have read and agree to this policy.
 
 # What does it store?
 Server IDs for server data (prefixes, settings, autorole, welcome, logging, vcrole, antinuke).
@@ -54,4 +54,4 @@ Ask server mod(s) to remove the logged message or just wait for 24 hours, after 
 We take steps to ensure data provided from here Astrox is protected from misuse, loss, alteration, or unauthorized access. However, no Internet-based system can be declared fully secure and error free.
 
 # HOW CAN I CONTACT YOU?
-If you have specific questions about our privacy policy you can send us an Email and you can simply join our discord support server
+If you have specific questions about our privacy policy you can send us an Email and you can simply join our discord support server.
